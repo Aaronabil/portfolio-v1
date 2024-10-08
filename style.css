@@ -191,7 +191,7 @@ span{
 
 .btn-box a{
 	position: relative;
-	display: inline-block;
+	display: flex;
 	padding: 12px 28px;
 	justify-content: center;
 	align-items: center;
